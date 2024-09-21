@@ -1,0 +1,1 @@
+This is attempt to use statistics for calculation of probability school shooting based on indicators like: School shooting incedents in the past, Total population/Population by race, Level of education, Level of earnings, Gun owners, Income by household, Level of poverty. The data is not accurate and should not be taken seriously.
